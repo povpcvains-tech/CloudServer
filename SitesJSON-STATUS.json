@@ -1,0 +1,14 @@
+{
+    "servers": [
+        {
+            "name": "API сервер 1",
+            "url": "https://sberpos-api.onrender.com",
+            "type": "http"
+        },
+        {
+            "name": "API сервер 2",
+            "url": "https://sber.kostz.ru",
+            "type": "http"
+        }
+    ]
+}
