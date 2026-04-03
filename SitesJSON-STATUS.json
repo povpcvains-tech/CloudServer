@@ -9,6 +9,11 @@
             "name": "API сервер 2",
             "url": "https://sber.kostz.ru",
             "type": "http"
+        },
+        {
+            "name": "API сервер 3",
+            "url": "https://anycatai.onrender.com",
+            "type": "http"
         }
     ]
 }
